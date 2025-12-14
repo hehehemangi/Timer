@@ -1,0 +1,45 @@
+body{
+  background-color: #1E1F31;
+}
+.btn{
+  background-color: #883f76;
+  font-size: 1.5rem;
+  color: white;
+}
+.btn:hover{
+  background-color: grey;
+}
+
+.lora-title {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 3rem;
+  font-style: italic;
+  font-style: normal;
+  color: #828CAB;
+}
+.lora-timer {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 5rem;
+  font-style: italic;
+  font-style: normal;
+  color: #AC94B3;
+}
+
+.parent-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+.main-container{
+  background-color: #27273F;
+  border-style: none;
+  border-radius: 1rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+
+}
